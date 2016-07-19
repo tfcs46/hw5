@@ -1,0 +1,155 @@
+.bg{
+    background: url('images.jpg');
+    width: 1440px;
+    height: 720px;
+  
+}
+
+.plan{
+    display:inline-block;
+    margin-left:20px;
+    background:red;
+   
+    
+    float: left;
+    
+    width: 430px;
+    height: 560px;
+   
+   
+    
+    
+    
+}
+
+.navy-bg{
+    
+       background: #204060;
+    height: 250px;
+    color: white;
+    font-size: 18px;
+    padding-top: 30px;
+}
+
+.item{
+    
+    margin-left:auto;
+    margin-right:auto;
+    width:180px;
+    margin-top:10px;
+}
+
+.tri-plan{
+    
+   
+    text-align:center;
+   padding-top: 40px;
+    padding-left: 20px;
+    padding-bottom: 82px;
+}
+
+div {
+    display: block;
+}
+body{
+        display: block;
+    margin: 8px;
+}
+
+.Freeplan {
+    color: white;
+    letter-spacing: 2px;
+    font-family: Arial;
+    font-size: 24px;
+    text-align: center;
+}
+.middle {
+    text-align: center;
+}
+
+.dollarsign {
+    font-family: Arial;
+    font-size: 30px;
+    position: relative;
+    top: -35px;
+    color: #bdc3c7;
+    letter-spacing: 30px;
+}
+
+.Zero {
+    font-family: Arial;
+    font-size: 80px;
+}
+
+.mo {
+    font-family: Arial;
+    font-size: 20px;
+    position: relative;
+    color: #bdc3c7;
+}
+
+.btn {
+    font-family: Arial;
+    font-size: 20px;
+    padding: 0.5em;
+    border: 1px solid white;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 100px;
+    border-radius: 5px;
+}
+
+.pricing-list {
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 110px;
+}
+.fa{
+    display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+        -webkit-font-smoothing: antialiased;
+     font-size: 50px;
+}
+
+.pricing-list ul li span {
+    color: #34495e;
+}
+
+.pricing-list ul li {
+    list-style: none;
+    border-bottom: 1px solid #EAECEB;
+    color: #bdc3c7;
+    font-family: Arial;
+    font-size: 19px;
+    line-height: 42px;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    font-size: 10px;
+}
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+
+.pricing-list ul li {
+    list-style: none;
+    border-bottom: 1px solid #EAECEB;
+    color: #bdc3c7;
+    font-family: Arial;
+    font-size: 19px;
+    line-height: 42px;
+}
+.fa-envelope:before {
+    content: "\f0e0";
+}
